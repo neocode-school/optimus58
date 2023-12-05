@@ -18,6 +18,13 @@ function newTest(){
     return 1
 }
 
+function newTest2(){
+    return 1
+}
+
+function newTest3(){
+    return 1
+}
 print(11)
 
 print $test;
