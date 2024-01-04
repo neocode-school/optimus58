@@ -5,6 +5,8 @@ $test3 = '1241412';
 $new = "1232421";
 $hello = "func";
 
+$test123 = "это новая строка"
+
 
 function newTest(){
     return 1
