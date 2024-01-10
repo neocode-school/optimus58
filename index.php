@@ -1,25 +1,13 @@
 <?php
 
-$test2 = '1241412';
-$test3 = '1241412';
-$new = "1232421";
-$hello = "func";
-
-$test123 = "это новая строка"
-
-
-function newTest(){
-    return 1
+$my_name = 'Max';
+function test2(){
+    return 111;
 }
 
-function newTest2(){
-    return 1
+foreach (range(1,1000) as $value){
+    print $value;
 }
 
-function newTest3(){
-    return 1
-}
-print(11)
 
-print $test;
-
+test2();
