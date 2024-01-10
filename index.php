@@ -1,6 +1,6 @@
 <?php
 
-$my_name = 'Max';
+$my_name = 'Max22';
 function test2(){
     return 111;
 }
